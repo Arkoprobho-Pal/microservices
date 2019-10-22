@@ -1,5 +1,13 @@
 # microservices
 ## useful commands
+### To see docker images
+```
+sudo docker images
+```
+### To see docker containers
+```
+sudo docker ps -a
+```
 ### To create docker image
 ```
 sudo docker build -t */imageName/* .
